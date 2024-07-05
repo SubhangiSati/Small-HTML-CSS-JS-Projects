@@ -10,5 +10,5 @@ It's a beginner's project on web development, learning HTML and CSS<br>
 </ul>
 
 How the website looks-<br>
-<image src="I1"> </image>
-<image src="I2"></image>
+<image src="I1.png"> </image>
+<image src="I2.png"></image>
